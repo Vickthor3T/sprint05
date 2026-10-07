@@ -2,3 +2,10 @@ body {
   max-width: 1200;
   min-width: 800;
 }
+
+.caja {
+  max-width: 600px;
+  max-height: 400px;
+  background-color: 200px;
+  display: flex;
+}
