@@ -9,3 +9,9 @@ body {
   background-color: 200px;
   display: flex;
 }
+
+.form {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+}
