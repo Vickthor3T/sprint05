@@ -1,16 +1,18 @@
 body {
   max-width: 1200;
   min-width: 800;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
 .caja {
   max-width: 600px;
   max-height: 400px;
-  background-color: 200px;
+  background-color: rebeccapurple;
   display: flex;
 }
 
 .form {
+  background-color: blueviolet;
   display: flex;
   flex-direction: column;
   max-width: 400px;
